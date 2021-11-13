@@ -1,16 +1,8 @@
-# ray_world
+# RayWorld - A Pokemon type Explorer Game
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=for-the-badge)](https://flame-engine.org)<br>
+I have used Flame game engine, built on Flutter api for creating this basic clone of a Pokemon type game.
+The player can rotate and explore the character anywhere within the constraints of the map using Joystick<br>
+Flame is really a powerful flutter package, making it easy and more optimized to develop cross-platform games using Flutter.
+<br>
+<image src = "explorer_game_dem.gif" height = "378" width = "180">
